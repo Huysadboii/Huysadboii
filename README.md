@@ -1,6 +1,6 @@
 
 <h1 align="center">Greetings! My name is Huy</h1>
-<h3 align="center">Just a naive boy dreaming to become a software engineer</h3>
+<h3 align="center">Just a naive boy dreaming to become a software engineer :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huysadboii&label=Profile%20views&color=0e75b6&style=flat" alt="huysadboii" /> </p>
 
